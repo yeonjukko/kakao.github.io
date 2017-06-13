@@ -1,10 +1,10 @@
-title: kakao 기술 블로그
-email: opensource@kakaocorp.com
+title: YJR LAB 블로그
+email: yjr_studio@naver.com
 description: |
-  Connect Everything 새로운 연결, 새로운 세상.
-  연결의 혁신으로 세상은 더욱 가깝고 새로워진다고 카카오는 믿습니다.
+  소규모로 개발하는 YJR LAB입니다.
+  언제나 최선을 다하겠습니다. 
 baseurl: ''
-url: 'http://tech.kakao.com'
+url: 'http://yeonjukko.github.io'
 timezone: Asia/Seoul 
 
 repository: kakao/kakao.github.io
@@ -57,12 +57,7 @@ asset_url: /assets
 #asset_url: //t1.daumcdn.net/osa/blog/assets
 google_analytics:
   ua: 'UA-72007721-1'
-facebook:
-  app_id: '1204347326263800'
-  username: kakaocorp
-twitter:
-  username: kakaodev
 google_plus:
   username: kakaodev
 github:
-  username: kakao
+  username: yeonjukko
